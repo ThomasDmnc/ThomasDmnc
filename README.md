@@ -7,7 +7,7 @@ Web Developer
 As a former Product Manager, I've honed my skills in driving successful product launches, fostering collaboration within cross-functional teams and especially solving users' problems. Now, I'm embarking on a new adventure as a Full Stack Developer, armed with fresh knowledge in the MERN stack from my recent coding bootcamp, IronHack.
 
 * 🌍  I'm based in Marseille, France
-* 🖥️  See my portfolio at [thomasd](http://https://thomasd.netlify.app/)
+* 🖥️  See my portfolio at [thomasd](https://thomasd.netlify.app/)
 * 🧠  I'm learning Typescript and Next.Js
 
 ### Skills
